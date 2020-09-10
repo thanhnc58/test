@@ -1,0 +1,68 @@
+{
+  "landmarks": [
+    "vincom landmark 81",
+    "sân bay tân sơn nhất",
+    "bùi viện",
+    "phố đi bộ nguyễn huệ",
+    "chợ bến thành",
+    "russian market",
+    "nghĩa trang liệt sĩ",
+    "thảo điền",
+    "đại học khoa hoc tu nhien",
+    "đại học bach khoa",
+    "dai hoc nguyen tat thanh",
+    "bệnh viện đại học y được",
+    "benh vien phạm ngọc thạch",
+    "bệnh viện từ dũ",
+    "bệnh viện truyền máu huyết học",
+    "bệnh viện nhi đồng 1",
+    "bệnh viện nguyễn trãi",
+    "bệnh viện nhiệt đới"
+  ],
+  "addressPatterns": [
+    {
+      "address-range": {
+        "begin": 110,
+        "end": 300
+      },
+      "postfix": "Lê Văn Sỹ, Phường 10, Ho Chi Minh"
+    },
+    {
+      "range": {
+        "begin": 110,
+        "end": 300
+      },
+      "postfix": "Lê Văn Sỹ, Phường 14, Ho Chi Minh"
+    },
+    {
+      "range": {
+        "begin": 13,
+        "end": 127
+      },
+      "postfix": "100 Bình Thới, Ho Chi Minh"
+    },
+    {
+      "range": {
+        "begin": 20,
+        "end": 1561
+      },
+      "postfix": "Đường 3 Tháng 2, Phường 12, Thành phố Hồ Chí Minh"
+    }
+  ],
+  "generics": {
+    "limit": 10,
+    "keywords": [
+      "bệnh viện",
+      "trường đại học",
+      "trường thpt",
+      "công viên",
+      "the coffee house",
+      "phúc long",
+      "aeon mall",
+      "vincom",
+      "bank",
+      "ngân hàng",
+      "cơm tấm"
+    ]
+  }
+}
