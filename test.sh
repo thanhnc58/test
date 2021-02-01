@@ -1,7 +1,7 @@
 #!/bin/sh
 echo "start git"
-export GIT_AUTHOR_DATE="Mon, 01 Feb 2021 17:45:56 -0000"
-export GIT_COMMITTER_DATE="Mon, 01 Feb 2021 17:45:56 -0000"
+export GIT_AUTHOR_DATE="Mon, 01 Feb 2021 17:55:56 -0000"
+export GIT_COMMITTER_DATE="Mon, 01 Feb 2021 17:55:56 -0000"
 git add .
-git commit -m "update readme 321"
+git commit -m "update readme 322"
 exit 0
