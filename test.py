@@ -6,10 +6,10 @@ import subprocess
 f = open('readme.md', 'a')
 
 
-for i in range(0, 1500):
+for i in range(0, 2500):
     print(f'start {i}')
     f.write(f'test {i} \n')
-    curTime = formatdate(1618317455 + i * 300)
+    curTime = formatdate(1618835855 + i * 200)
     f2 = open('test.sh', 'w')
     f2.write(f'#!/bin/sh\n')
     f2.write(f'echo \"start git\"\n')
